@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="banner.jpeg" />
+ <img src="IMG_20210310_152822_572.jpg" />
 </h1>
 <h3 align="center">A passionate AI\ML Developer from India</h3>
 
