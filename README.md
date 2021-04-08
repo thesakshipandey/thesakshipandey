@@ -11,7 +11,7 @@
 </p>
 <table align="center">
  <tr>
-<td><p>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesakshipandey&show_icons=true&theme=radical)</p>
+<td>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesakshipandey&show_icons=true&theme=radical)
    </td>
 <td><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thesakshipandey&" alt="thesakshipandey" /></p></td>
 </tr>
