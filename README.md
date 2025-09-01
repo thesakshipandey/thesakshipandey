@@ -13,9 +13,9 @@ MS by Research @ IIT Bombay • Recommender Systems • LLMs for Personalization
 -->
 
 ## ⚡ A Few Quick Facts
-- 🔭 I’m currently building **LLM-CRS**, a conversational **movie** recommender that fuses long-term profiles with mood/affect features.
+- 🔭 I’m currently building **LLM-CRS**, a conversational **movie** recommender that fuses long-term profiles with mood features.
 - 🛡️ I’m also exploring **jailbreak attacks** in LLMs.
-- 🔤 I also work on **SignboardOCR**: multilingual OCR + Hindi→English transliteration pipeline.
+- 🔤 I also keen on learning new aspects of Machine Learning and have a way around the data. 
 - ✍️ I prefer **LaTeX** for notes and docs.
 - 📚 I’m a reader (**Sarah J Maas** & **Rebecca Yarros** fan!) — always up for book chit-chat.
 
@@ -64,4 +64,4 @@ MS by Research @ IIT Bombay • Recommender Systems • LLMs for Personalization
   <img src="https://komarev.com/ghpvc/?username=thesakshipandey&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
-<sub>✨ I love neat repos, reproducible setups, and well-annotated notebooks. PRs & collabs welcome!</sub>
+<sub>✨ I love neat repos, reproducible setups, and well-annotated notebooks. Collabs are welcomed!</sub>
