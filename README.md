@@ -4,8 +4,8 @@
 </h1>
 
 <p align="center">
-  <b>Hi, I'm Sakshi Pandey</b><br/>
-  M.Tech (Research) @ IIT Bombay • Recommender Systems & Human-Centered AI • RL & Security / SCA • LLMs
+  <b>Hi, I'm Sakshi Pandey 👋🏻</b><br/>
+  MS by Research @ IIT Bombay • Recommender Systems • Human-Centered AI • Agentic AI • LLMs
 </p>
 
 ---
@@ -28,15 +28,6 @@ Recommenders • Human-AI interaction • Alignment & feedback (RLHF/RLAIF) • 
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E.svg?logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/LaTeX-008080.svg?logo=latex&logoColor=white" />
 </p>
-
-### 📌 Selected work
-- **LLM-CRS pipeline** — LightGCN embeddings + affect features + FM/DeepFM fusion.  
-- **JailbreakZoo** — structured dataset & mitigation prompts for deception/fraud categories.  
-- **SPA-GPT (read & repro)** — RL-based segmentation for simple power analysis.  
-- **AES S-box (SageMath)** — composite field arithmetic with change-of-basis walk-through.  
-- **POS tagging study** — HMM vs BiLSTM Encoder-Decoder vs LLM baselines.
-
-> Want details or a demo link? Open an issue on any repo and I’ll share pointers.
 
 ---
 
