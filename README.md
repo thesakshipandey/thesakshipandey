@@ -1,17 +1,66 @@
+<!-- Banner -->
 <h1 align="center">
- <img src="20210628_144410_0000.png" />
+  <img src="20210628_144410_0000.png" alt="Thesakshipandey banner" />
 </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thesakshipandey&label=Profile%20views&color=0e75b6&style=flat" alt="thesakshipandey" /> </p>
-
-<h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/thesakshipandey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="thesakshipandey" height="30" width="40" /></a>
-<a href="https://discord.gg/#0879" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="#0879" height="30" width="40" /></a>
+  <b>Hi, I'm Sakshi Pandey</b><br/>
+  M.Tech (Research) @ IIT Bombay • Recommender Systems & Human-Centered AI • RL & Security / SCA • LLMs
 </p>
-<table align="center">
- <tr>
-<td><p><img align="center" src="https://github-readme-stats.vercel.app/api?username=thesakshipandey&show_icons=true&" alt="thesakshipandey" /></p></td>
-<td><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thesakshipandey&" alt="thesakshipandey" /></p></td>
-</tr>
-</table>
+
+---
+
+### 🚀 What I’m working on
+- **Conversational Recommender Systems (LLM-CRS):** fusing long-term profiles with mood/affect for real-time movie recs.  
+- **Jailbreak mitigation (JailbreakZoo):** multilingual jailbreak taxonomies + safer prompt templates. 
+
+### 🔎 Research interests
+Recommenders • Human-AI interaction • Alignment & feedback (RLHF/RLAIF) • Agentic systems 
+
+### 🧰 Toolbox
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E.svg?logo=huggingface&logoColor=000" />
+  <img src="https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E.svg?logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/LaTeX-008080.svg?logo=latex&logoColor=white" />
+</p>
+
+### 📌 Selected work
+- **LLM-CRS pipeline** — LightGCN embeddings + affect features + FM/DeepFM fusion.  
+- **JailbreakZoo** — structured dataset & mitigation prompts for deception/fraud categories.  
+- **SPA-GPT (read & repro)** — RL-based segmentation for simple power analysis.  
+- **AES S-box (SageMath)** — composite field arithmetic with change-of-basis walk-through.  
+- **POS tagging study** — HMM vs BiLSTM Encoder-Decoder vs LLM baselines.
+
+> Want details or a demo link? Open an issue on any repo and I’ll share pointers.
+
+---
+
+### 📊 GitHub at a glance
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=thesakshipandey&show_icons=true&hide_title=true" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=thesakshipandey" />
+</p>
+
+---
+
+### 🤝 Let’s connect
+<p align="center">
+  <a href="https://twitter.com/thesakshipandey">
+    <img src="https://img.shields.io/badge/Twitter-@thesakshipandey-1DA1F2?logo=twitter&logoColor=white" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Discord-thesakshipandey%230879-5865F2?logo=discord&logoColor=white" />
+</p>
+
+<!-- Optional: show views without clutter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=thesakshipandey&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+---
+<sub>⚡ I enjoy clean repos, reproducible setups, and well-annotated notebooks. PRs & collabs welcome!</sub>
