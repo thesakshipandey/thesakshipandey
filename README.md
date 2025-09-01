@@ -8,28 +8,27 @@
 MS by Research @ IIT Bombay • Recommender Systems • LLMs for Personalization • Human-Centered AI
 </p>
 
-<p>
-  <a href="https://twitter.com/thesakshipandey">
-    <img src="https://img.shields.io/badge/-@thesakshipandey-1DA1F2?style=flat-square&labelColor=1DA1F2&logo=X&logoColor=white" alt="Twitter Badge">
-  </a>
-  <img src="https://img.shields.io/badge/Discord-thesakshipandey%230879-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord Badge">
-</p>
-
 <!-- Optional fun line
 <p>🍿 If we’re talking movies, I probably have a recommender idea for it.</p>
 -->
 
 ## ⚡ A Few Quick Facts
 - 🔭 I’m currently building **LLM-CRS**, a conversational **movie** recommender that fuses long-term profiles with mood/affect features.
-- 🧪 I like clean baselines → **LightGCN** embeddings + **FM/DeepFM** fusion, with LLM signals for context.
+- 🛡️ I’m also exploring **jailbreak attacks** in LLMs.
 - 🔤 I also work on **SignboardOCR**: multilingual OCR + Hindi→English transliteration pipeline.
-- 📂 Most of my work lives here on GitHub; I keep repos reproducible with clear READMEs and notebooks.
 - ✍️ I prefer **LaTeX** for notes and docs.
+- 📚 I’m a reader (**Sarah J Maas** & **Rebecca Yarros** fan!) — always up for book chit-chat.
 
 ## 🎬 Featured Projects
 - **ConvRecSys — Movie Recommender**  
   LightGCN user/item embeddings + affect features + FM/DeepFM fusion; MovieLens 100K/1M/20M.  
   👉 <a href="https://github.com/thesakshipandey/ConvRecSys">github.com/thesakshipandey/ConvRecSys</a>
+  
+- **JailbreakZoo — LLM Jailbreak Mitigation (Multilingual)**  
+  Taxonomy + dataset of jailbreak prompts focused on fraud/deception categories  
+  (tricking, cheating, money laundering, fake reviews/news, manipulation, misinformation, identity theft),  
+  plus safer prompt templates and evaluation scripts.  
+  👉 <a href="https://github.com/thesakshipandey/JailbreakinLLMs">github.com/thesakshipandey/JailbreakinLLMs</a> <!-- change if different or mark as private -->
 
 - **SignboardOCR — Multilingual OCR & Transliteration**  
   Detection → text recognition (Hindi) → seq2seq transliteration to English for Indian signboards.  
@@ -55,11 +54,11 @@ MS by Research @ IIT Bombay • Recommender Systems • LLMs for Personalization
 ## 🤝 Let’s connect
 <p align="center">
   <a href="https://twitter.com/thesakshipandey">
-    <img src="https://img.shields.io/badge/Twitter-@thesakshipandey-1DA1F2?logo=X&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-@thesakshipandey-1DA1F2?style=flat-square&labelColor=1DA1F2&logo=X&logoColor=white" alt="Twitter Badge">
   </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Discord-thesakshipandey%230879-5865F2?logo=discord&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Discord-thesakshipandey%230879-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord Badge">
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=thesakshipandey&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
